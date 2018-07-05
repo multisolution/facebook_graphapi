@@ -1,0 +1,6 @@
+name: facebook_graphapi
+version: 0.1.0
+description: Facebook's GraphAPI in Dart.
+
+dependencies:
+  http:
